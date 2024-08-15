@@ -2,21 +2,10 @@ import streamlit as st
 import joblib
 import numpy as np
 
-st.title("Hello, World App")
-st.write("Hello, World!")
-
-model_reel = joblib.load("model_reel (1).pkl")
-model_photo = joblib.load("model_photo (1).pkl")
-model_carousel = joblib.load("model_carousel (1).pkl")
-'''
-
-
-
 # Load the models
 model_reel = joblib.load("model_reel (1).pkl")
 model_photo = joblib.load("model_photo (1).pkl")
 model_carousel = joblib.load("model_carousel (1).pkl")
-
 
 
 # Option to select type
