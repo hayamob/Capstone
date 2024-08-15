@@ -49,5 +49,3 @@ else:
     elif option == 'Carousel' and st.button('Predict Engagement Rate'):
         prediction_carousel = model_carousel.predict(input_data)[0]
         st.write(f'Predicted Engagement Rate for Carousel: {prediction_carousel:.2f}')
-
-'''
