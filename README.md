@@ -20,11 +20,11 @@ To set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/social-media-engagement-insights.git
+   git clone https://github.com/yourusername/capstone.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd social-media-engagement-insights
+   cd capstone
    ```
 3. **Install the required packages:**
    ```bash
